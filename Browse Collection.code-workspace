@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Nft.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Browse Collection"
+	}
+}
